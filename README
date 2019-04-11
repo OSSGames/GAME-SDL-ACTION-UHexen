@@ -1,0 +1,8 @@
+U-Hexen is yet another port of Hexen, popular game from Raven Softrware to
+Simple Directmedia Layer (SDL) library.
+It works on Linux, FreeBSD, OpenBSD and Windows, and can be ported to other platforms.
+
+Code and ideas is taken from various versions of hexen, heretic and doom.
+
+Please report bugs to me by e-mail svm@asu.ru, or by ICQ# 17541775.
+

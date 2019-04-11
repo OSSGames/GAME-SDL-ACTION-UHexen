@@ -1,0 +1,18 @@
+1. Requirements.
+    1. Simple Directmedia Layer library. If you don't have it, download it from http://www.libsdl.org
+    2. SDL Mixer, required for sound and music. Also can be downloaded from http://www.libsdl.org/projects/SDL_mixer/index.html
+    3. Instrument patches for SDL-mixer. Information about them can be found at http://www.libsdl.org/projects/SDL_mixer/index.html
+    4. Resource file (hexen.wad) from the original DOS version of game, you can use demo wad or full wad.
+    
+2. Compilation.
+    1. Edit the Makefile, add proper -I and -L directives to compiler to locate includes and libraries.
+    2. Invoke the "make" command (GNU make is REQUIRED).
+    3. Move uhexen binary to /usr/local/bin, and .WAD file to /usr/local/share/games/uhexen
+
+3. Running
+    1. Just type "uhexen", or "uhexen -file mylevel.wad" if you have additional levels.
+
+If something goes wrong, wait for some time until the next release with autoconf is out.
+
+Good Luck :)
+    

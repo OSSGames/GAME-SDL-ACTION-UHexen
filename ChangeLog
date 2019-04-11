@@ -1,0 +1,18 @@
+01.12.2001
+
+1. U-Hexen project is started on sourceforge.net 
+
+03.12.2001 
+
+1. Fixed the finale lump search. 
+If U-Hexen doen't find this lump it simply displays "congradulations!" message.
+My hexen.wad does not contain these lumps, I don't know why.
+2. U-Hexen can now play demo wad. And it can be distributed with this IWAD.
+3. Version 0.6 is out.
+
+04.12.2001
+
+1. Fixed palette handling (problems with DirectX).
+2. Added 24 bpp surface support.
+3. Fixed save path on Windows.
+4. Version 0.61 is out.

@@ -1,0 +1,9 @@
+- Some types of surfaces (such as packed YUV) are unsupported or don't work properly, because I cannot test them. 
+- Big-endian machines still do not work.
+- more README
+- autoconf
+- make install
+- maybe OpenGL (take from hhexen)
+- bug fixes
+- bug fixes
+- bug fixes .......
